@@ -1,5 +1,3 @@
-# Hi, I'm Vinay Bhat (@bhatvinay7)
-
 ### Backend & Distributed Systems Engineer
 
 I am a backend and distributed systems engineer specializing in designing, building, and scaling high-performance infrastructure. With a deep technical foundation in Rust, TypeScript, Python, and Node.js, I architect resilient cloud-native systems capable of handling complex, data-intensive workloads.
@@ -10,13 +8,3 @@ I deliver robust architectures, scalable CI/CD pipelines, and mission-critical b
 
 Bengaluru, India 
 [Portfolio Website](https://vinaybhat.xyz) | [bhatvinay74@gmail.com](mailto:bhatvinay74@gmail.com)
-
----
-## Core Technical Stack
-- **Languages:** Rust, TypeScript, Node.js, Python, SQL, Lua
-- **Infrastructure & Cloud:** Kubernetes (K8s), Terraform (IaC), Docker, GitOps (ArgoCD), CI/CD Pipelines
-- **Data Engineering & Messaging:** Apache Kafka, RabbitMQ, Redis Streams, Redis Pub/Sub, CDC (Change Data Capture)
-- **Databases:** PostgreSQL, MongoDB, Elasticsearch, Neon Postgres
-- **Observability:** Prometheus, Grafana
-
----
