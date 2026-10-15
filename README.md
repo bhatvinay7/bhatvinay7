@@ -7,4 +7,4 @@ My expertise extends across the entire deployment lifecycle. I leverage Docker a
 I deliver robust architectures, scalable CI/CD pipelines, and mission-critical backend solutions.
 
 Bengaluru, India 
-[Portfolio Website](https://vinaybhat.xyz) | [bhatvinay74@gmail.com](mailto:bhatvinay74@gmail.com)
+[Portfolio Website](https://web.vinaybhat.xyz) | [bhatvinay74@gmail.com](mailto:bhatvinay74@gmail.com)
